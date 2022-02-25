@@ -1,0 +1,1544 @@
+[
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Unabh%C3%A4ngige_Regionen",
+        "text": "1. UNABHÄNGIGE REGIONEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Die_Verteilung_der_St%C3%A4dte",
+        "text": "2. DIE VERTEILUNG DER STÄDTE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Stadt-Land-Finger",
+        "text": "3. STADT·LAND-FINGER **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Landwirtschaftst%C3%A4ler",
+        "text": "4. LANDWIRTSCHAFTSTÄLER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Maschennetz_von_Landstra%C3%9Fen",
+        "text": "5. MASCHENNETZ VON LANDSTRASSEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kleinst%C3%A4dte",
+        "text": "6. KLEINSTÄDTE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Das_Land",
+        "text": "7. DAS LAND *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Mosaik_aus_Subkulturen",
+        "text": "8. MOSAIK AUS SUBKULTUREN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Streuung_der_Arbeitsst%C3%A4tten",
+        "text": "9. STREUUNG DER ARBEITSSTÄTTEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Der_Zauber_der_Stadt",
+        "text": "10. DER ZAUBER DER STADT"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Lokalverkehrszonen",
+        "text": "11. LOKALVERKEHRSZONEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gemeinde_von_7000",
+        "text": "12. GEMEINDE VON 7000 *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Subkultur-Grenzen",
+        "text": "13. SUBKULTUR-GRENZE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Identifizierbare_Nachbarschaft",
+        "text": "14. IDENTIFIZIERBARE NACHBARSCHAFT **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Nachbarschaftsgrenzen",
+        "text": "15. NACHBARSCHAFTSGRENZE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../%C3%96ffentliches_Verkehrsnetz",
+        "text": "16. ÖFFENTLICHES VERKEHRSNETZ *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Ringstra%C3%9Fen",
+        "text": "17. RINGSTRASSEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Netzwerk_des_Lernens",
+        "text": "18. NETZWERK DES LERNENS *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Netz_der_Nahversorgung",
+        "text": "19. NETZ DER NAHVERSORGUNG *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Mini_Busse",
+        "text": "20. MINI-BUSSE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../H%C3%B6chstens_vier_Gescho%C3%9Fe",
+        "text": "21. HÖCHSTENS VIER GESCHOSSE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Neun_Prozent_Parkpl%C3%A4tze",
+        "text": "22. NEUN PROZENT PARKPLÄTZE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Parallele_Stra%C3%9Fen",
+        "text": "23. PARALLELE STRASSEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Heilige_St%C3%A4tten",
+        "text": "24. HEILIGE STÄTTEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Zugang_zum_Wasser",
+        "text": "25. ZUGANG ZUM WASSER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Lebenszyklus",
+        "text": "26. LEBENSZYKLUS *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../M%C3%A4nner_und_Frauen",
+        "text": "27. MÄNNER UND FRAUEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Exzentrischer_Kern",
+        "text": "28. EXZENTRISCHER KERN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Ringe_verschiedener_Dichte",
+        "text": "29. RINGE VERSCHIEDENER DICHTE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Knoten_der_Aktivit%C3%A4t",
+        "text": "30. KNOTEN DER AKTIVITÄT **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Promenade",
+        "text": "31. PROMENADE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Einkaufsstra%C3%9Fe",
+        "text": "32. EINKAUFSSTRASSE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Nachtleben",
+        "text": "33. NACHTLEBEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Umsteigstelle",
+        "text": "34. UMSTEIGESTELLE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Mischung_der_Haushalte",
+        "text": "35. MISCHUNG DER HAUSHALTE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Abstufungen_der_%C3%96ffentlichkeit",
+        "text": "36. ABSTUFUNGEN DER ÖFFENTLICHKEIT **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Hausgruppe",
+        "text": "37. HAUSGRUPPE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Reihenh%C3%A4user",
+        "text": "38. REIHENHÄUSER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Wohnh%C3%BCgel",
+        "text": "39. WOHNHÜGEL"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../%C3%9Cberall_alte_Menschen",
+        "text": "40. ÜBERALL ALTE MENSCHEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gemeinschaft_von_Arbeitsst%C3%A4tten",
+        "text": "41. GEMEINSCHAFT VON ARBEITSSTÄTTEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Industrieband",
+        "text": "42. INDUSTRIEBAND *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Universit%C3%A4t_als_offener_Markt",
+        "text": "43. UNIVERSITÄT ALS OFFENER MARKT"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Lokales_Rathaus",
+        "text": "44. LOKALES RATHAUS *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kranz_von_Gemeinschaftsprojekten",
+        "text": "45. KRANZ VON GEMEINSCHAFTSPROJEKTEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Markt_mit_vielen_Gesch%C3%A4ften",
+        "text": "46. MARKT MIT VIELEN GESCHÄFTEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gesundheitszentrum",
+        "text": "47. GESUNDHEITSZENTRUM *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Wohnen_Dazwischen",
+        "text": "48. WOHNEN DAZWISCHEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../%C3%96rtliche_Stra%C3%9Fen_in_Schleifen",
+        "text": "49. ÖRTLICHE STRASSEN IN SCHLEIFEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../T-Kreuzungen",
+        "text": "50. T-KREUZUNGEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gr%C3%BCne_Stra%C3%9Fen",
+        "text": "51. GRÜNE STRASSEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Netz_von_Fu%C3%9F-_und_Radwegen",
+        "text": "52. NETZ VON FUSS- UND FAHRWEGEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Hauptorte",
+        "text": "53. HAUPTORTE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Stra%C3%9Fen%C3%BCberquerung",
+        "text": "54. STRASSENÜBERQUERUNG"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Erh%C3%B6hter_Gehweg",
+        "text": "55. ERHÖHTER GEHWEG *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Radwege_und_St%C3%A4nder",
+        "text": "56. RADWEGE UND STÄNDER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kinder_in_der_Stadt",
+        "text": "57. KINDER IN DER STADT"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Vergn%C3%BCgungsraum",
+        "text": "58. VERGNÜGUNGSPARK"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Ruhige_Hinterseiten",
+        "text": "59. RUHIGE HINTERSEITEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Erreichbare_Gr%C3%BCnfl%C3%A4che",
+        "text": "60. ERREICHBARE GRÜNFLÄCHE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kleine_Pl%C3%A4tze",
+        "text": "61. KLEINE PLÄTZE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Aussichtspunkte",
+        "text": "62. AUSSICHTSPUNKTE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Tanzen_auf_der_Stra%C3%9Fe",
+        "text": "63. TANZEN AUF DER STRASSE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Teiche_und_B%C3%A4che",
+        "text": "64. TEICHE UND BÄCHE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Geb%C3%A4rh%C3%A4user",
+        "text": "65. GEBÄRHÄUSER"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Geheiligter_Boden",
+        "text": "66. GEHEILIGTER BODEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gemeinschaftsfl%C3%A4chen",
+        "text": "67. GEMEINSCHAFTSFLÄCHEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Spielen_mit_anderen_Kindern",
+        "text": "68. SPIELEN MIT ANDEREN KINDERN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../%C3%96ffentliches_Zimmer_im_Freien",
+        "text": "69. ÖFFENTLICHES ZIMMER IM FREIEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Grabst%C3%A4tten",
+        "text": "70. GRABSTÄTTEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Stehendes_Wasser",
+        "text": "71. STEHENDES WASSER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Lokaler_Sport",
+        "text": "72. LOKALER SPORT *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Abenteuerspielplatz",
+        "text": "73. ABENTEUERSPIELPLATZ"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Tiere",
+        "text": "74. TIERE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Die_Familie",
+        "text": "75. DIE FAMILIE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Haus_f%C3%BCr_eine_Kleinfamilie",
+        "text": "76. HAUS FÜR EINE KLEINFAMILIE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Haus_f%C3%BCr_ein_Paar",
+        "text": "77. HAUS FÜR EIN PAAR *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Haus_f%C3%BCr_eine_Person",
+        "text": "78. HAUS FÜR EINE PERSON *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Das_eigene_Heim",
+        "text": "79. DAS EIGENE HEIM **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Selbstverwaltete_Werkst%C3%A4tten_und_B%C3%BCros",
+        "text": "80. SELBSTVERWALTETE WERKSTÄTTEN UND BÜROS **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kleine_unb%C3%BCrokratische_Dienstleistungen",
+        "text": "81. KLEINE UNBÜROKRATISCHE DIENSTLEISTUNGEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Verbindung_zwischen_B%C3%BCros",
+        "text": "82. VERBINDUNG ZWISCHEN BÜROS *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Meister_und_Lehrlinge",
+        "text": "83. MEISTER UND LEHRLINGE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Teenager-Gesellschaft",
+        "text": "84. TEENAGER-GESELLSCHAFT"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Ladenschulen",
+        "text": "85. LADENSCHULEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kinderhaus",
+        "text": "86. KINDERHAUS *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gesch%C3%A4fte_in_Privatbesitz",
+        "text": "87. GESCHÄFTE IN PRIVATBESITZ **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Stra%C3%9Fencafe",
+        "text": "88. STRASSENCAFE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Lebensmittelgesch%C3%A4ft_an_der_Ecke",
+        "text": "89. LEBENSMITTELGESCHÄFT AN DER ECKE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Bierhalle",
+        "text": "90, BIERHALLE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gasthof",
+        "text": "91. GASTHOF *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Bushaltestelle",
+        "text": "92. BUSHALTESTELLE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Imbisst%C3%A4nde",
+        "text": "93. IMBISSSTÄNDE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Schlafen_in_der_%C3%96ffentlichkeit",
+        "text": "94. SCHLAFEN IN DER ÖFFENTLICHKEIT"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Geb%C3%A4udekomplex",
+        "text": "95. GEBÄUDEKOMPLEX **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Anzahl_der_Stockwerke",
+        "text": "96. ANZAHL DER STOCKWERKE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Abgeschirmtes_Parken",
+        "text": "97. ABGESCHIRMTES PARKEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Orientierung_durch_Bereiche",
+        "text": "98. ORIENTIERUNG DURCH BEREICHE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Hauptgeb%C3%A4ude",
+        "text": "99. HAUPTGEBÄUDE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Fu%C3%9Fg%C3%A4ngerstra%C3%9Fe",
+        "text": "100. FUSSGÄNGERSTRASSE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Passage_durchs_Geb%C3%A4ude",
+        "text": "101. PASSAGE DURCHS GEBÄUDE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Familie_von_Eing%C3%A4ngen",
+        "text": "102. FAMILIE VON EINGÄNGEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kleine_Parkpl%C3%A4tze",
+        "text": "103. KLEINE PARKPLÄTZE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Verbesserung_des_Bauplatzes",
+        "text": "104. VERBESSERUNG DES BAUPLATZES **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Au%C3%9Fenraum_nach_S%C3%BCden",
+        "text": "105. AUSSENRAUM NACH SÜDEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Positiver_Au%C3%9Fenraum",
+        "text": "106. POSITIVER AUSSENRAUM **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Geb%C3%A4udefl%C3%BCgel_mit_Tageslicht",
+        "text": "107. GEBÄUDEFLÜGEL MIT TAGESLICHT"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Zusammenh%C3%A4ngende_Geb%C3%A4ude",
+        "text": "108. ZUSAMMENHÄNGENDE GEBÄUDE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Langes_schmales_Haus",
+        "text": "109. LANGES SCHMALES HAUS *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Haupteingang",
+        "text": "110. HAUPTEINGANG **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Halbversteckter_Garten",
+        "text": "111. HALBVERSTECKTER GARTEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Zone_vor_dem_Eingang",
+        "text": "112. ZONE VOR DEM EINGANG **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Verbindung_zum_Auto",
+        "text": "113. VERBINDUNG ZUM AUTO"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Hierarchie_von_Au%C3%9Fenr%C3%A4umen",
+        "text": "114. HIERARCHIE VON AUSSENRÄUMEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Belebte_Innenh%C3%B6fe",
+        "text": "115. BELEBTE INNENHÖFE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Dachkaskade",
+        "text": "116. DACHKASKADE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Sch%C3%BCtzendes_Dach",
+        "text": "117. SCHÜTZENDES DACH **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Dachgarten",
+        "text": "118. DACHGARTEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Arkaden",
+        "text": "119. ARKADEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Wege_und_Ziele",
+        "text": "120. WEGE UND ZIELE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Die_Form_von_Wegen",
+        "text": "121. DIE FORM VON WEGEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Geb%C3%A4udefronten",
+        "text": "122. GEBÄUDEFRONTEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Fu%C3%9Fg%C3%A4ngerdichte",
+        "text": "123. FUSSGÄNGERDICHTE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Aktivit%C3%A4tsnischen",
+        "text": "124. AKTIVTÄTSNISCHEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Sitzstufen",
+        "text": "125. SITZSTUFEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Etwas_fast_in_der_Mitte",
+        "text": "126. ETWAS FAST IN DER MITTE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Stufen_der_Intimit%C3%A4t",
+        "text": "127. STUFEN DER INTIMITÄT **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Sonnenlicht_im_Inneren",
+        "text": "128. SONNENLICHT IM INNEREN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gemeinschaftsbereich_in_der_Mitte",
+        "text": "129. GEMEINSCHAFTSBEREICHE IN DER MITTE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Der_Eingangsraum",
+        "text": "130. DER EINGANGSRAUM **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Von_Raum_zu_Raum",
+        "text": "131. VON RAUM ZU RAUM"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kurze_Verbindungsg%C3%A4nge",
+        "text": "132. KURZE VERBINDUNGSGÄNGE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Die_Stiege_als_B%C3%BChne",
+        "text": "133. DIE STIEGE ALS BÜHNE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Die_Aussicht_des_M%C3%B6nchs",
+        "text": "134. DIE AUSSICHT DES MÖNCHS *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Wechsel_von_Hell_und_Dunkel",
+        "text": "135. WECHSEL VON HELL UND DUNKEL *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Bereich_des_Paars",
+        "text": "136. BEREICH DES PAARS *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Bereich_der_Kinder",
+        "text": "137. BEREICH DER KINDER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Schlafen_nach_Osten",
+        "text": "138. SCHLAFEN NACH OSTEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Wohnk%C3%BCche",
+        "text": "139. WOHNKÜCHE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Privatterrasse_an_der_Stra%C3%9Fe",
+        "text": "140. PRIVATTERRASSE AN DER STRASSE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Das_eigene_Zimmer",
+        "text": "141. DAS EIGENE ZIMMER **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Mehrere_Sitzpl%C3%A4tze",
+        "text": "142. MEHRERE SITZPLÄTZE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gruppe_von_Betten",
+        "text": "143. GRUPPE VON BETTEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Baderaum",
+        "text": "144. BADERAUM *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Abstellraum",
+        "text": "145. ABSTELLRAUM"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Flexible_B%C3%BCrofl%C3%A4che",
+        "text": "146. FLEXIBLE BÜROFLÄCHE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gemeinsames_Essen",
+        "text": "147. GEMEINSAMES ESSEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kleine_Arbeitsgruppen",
+        "text": "148. KLEINE ARBEITSGRUPPEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Entgegenkommender_Empfang",
+        "text": "149. ENTGEGENKOMMENDER EMPFANG"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Ein_Platz_zum_Warten",
+        "text": "150. EIN PLATZ ZUM WARTEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kleine_Besprechungszimmer",
+        "text": "151. KLEINE BESPRECHUNGSZIMMER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Halbprivates_B%C3%BCro",
+        "text": "152. HALBPRIVATES BÜRO"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Vermietbare_R%C3%A4ume",
+        "text": "153. VERMIETBARE RÄUME"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../H%C3%A4uschen_f%C3%BCr_Teenager",
+        "text": "154. HÄUSCHEN FÜR TEENAGER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../H%C3%A4uschen_f%C3%BCr_Alte",
+        "text": "155. HÄUSCHEN FÜR ALTE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Erf%C3%BCllte_Arbeit",
+        "text": "156. ERFÜLLTE ARBEIT *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Werkstatt_im_Haus",
+        "text": "157. WERKSTATT IM HAUS"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Offene_Treppen",
+        "text": "158. OFFENE TREPPEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Licht_von_zwei_Seiten_in_jedem_Raum",
+        "text": "159. LICHT VON ZWEI SEITEN IN JEDEM RAUM **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Die_Geb%C3%A4udekante",
+        "text": "160. DIE GEBÄUDEKANTE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Sonnige_Stelle",
+        "text": "161. SONNIGE STELLE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Abgestufte_Nordfront",
+        "text": "162. ABGESTUFTE NORDFRONT"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Zimmer_im_Freien",
+        "text": "163. ZIMMER IM FREIEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Stra%C3%9Fenfenster",
+        "text": "164. STRASSENFENSTER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../%C3%96ffnung_zur_Stra%C3%9Fe",
+        "text": "165. ÖFFNUNG ZUR STRASSE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Die_Galerie_rundherum",
+        "text": "166. DIE GALERIE RUNDHERUM *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Zwei_Meter_Balkon",
+        "text": "167. ZWEI-METER-BALKON **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Verbindung_zum_Boden",
+        "text": "168. VERBINDUNG ZUM BODEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Terrassierter_Hang",
+        "text": "169. TERRASSIERTER HANG *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Obstb%C3%A4ume",
+        "text": "170. OBSTBÄUME *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Pl%C3%A4tze_unter_B%C3%A4umen",
+        "text": "171. PLÄTZE UNTER BÄUMEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Wildwachsender_Garten",
+        "text": "172. WILDWACHSENDER GARTEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gartenmauer",
+        "text": "173. GARTENMAUER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Laubenweg",
+        "text": "174. LAUBENWEG **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Glashaus",
+        "text": "175. GLASHAUS"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Sitzplatz_im_Garten",
+        "text": "176. SITZPLATZ IM GARTEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gem%C3%BCsegarten",
+        "text": "177. GEMÜSEGARTEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kompost",
+        "text": "178. KOMPOST *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Nischen",
+        "text": "179. NISCHEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Platz_am_Fenster",
+        "text": "180. PLATZ AM FENSTER **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Das_Feuer",
+        "text": "181. DAS FEUER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Atmosph%C3%A4re_beim_Essen",
+        "text": "182. ATMOSPHÄRE BEIM ESSEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Abgrenzung_des_Arbeitsplatzes",
+        "text": "183. ABGRENZUG DES ARBEITSPLATZES **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Der_Kochplatz",
+        "text": "184. DER KOCHPLATZ *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Runder_Sitzplatz",
+        "text": "185. RUNDER SITZPLATZ *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gemeinsames_Schlafen",
+        "text": "186. GEMEINSAMES SCHLAFEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Ehebett",
+        "text": "187. EHEBETT"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Bettnische",
+        "text": "188. BETTNISCHE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Ankleidezimmer",
+        "text": "189. ANKLEIDEZIMMER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Verschiedene_Raumh%C3%B6hen",
+        "text": "190. VERSCHIEDENE RAUMHÖHEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Form_des_Innenraums",
+        "text": "191. FORM DES INNENRAUMS **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Fenster_mit_Blick_auf_die_Au%C3%9Fenwelt",
+        "text": "192. FENSTER MIT BLICK AUF DIE AUSSENWELT *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Durchbrochene_Wand",
+        "text": "193. DURCHBROCHENE WAND *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Fenster_im_Inneren",
+        "text": "194. FENSTER IM INNERN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Anlegen_der_Stiege",
+        "text": "195. ANLEGEN DER STIEGE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../T%C3%BCren_in_den_Ecken",
+        "text": "196. TÜREN IN DEN ECKEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Dicke_W%C3%A4nde",
+        "text": "197. DICKE WÄNDE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Schr%C3%A4nke_zwischen_R%C3%A4umen",
+        "text": "198. SCHRÄNKE ZWISCHEN RÄUMEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Sonnige_Arbeitsfl%C3%A4che",
+        "text": "199. SONNIGE ARBEITSFLÄCHE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Offene_Regale",
+        "text": "200. OFFENE REGALE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Bord_in_H%C3%BCfth%C3%B6he",
+        "text": "201. BORD IN HÜFTHÖHE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Eingebaute_Sitzebank",
+        "text": "202. EINGEBAUTE SITZBANK *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../H%C3%B6hlen_f%C3%BCr_Kinder",
+        "text": "203. HÖHLEN FÜR KINDER"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Geheimfach",
+        "text": "204. GEHEIMFACH"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Die_Konstruktion_folgt_den_sozialen_R%C3%A4umen",
+        "text": "205. DIE KONSTRUKTION FOLGT DEN SOZIALEN RÄUMEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Rationelle_Konstruktion",
+        "text": "206. RATIONELLE KONSTRUKTION *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gute_Baustoffe",
+        "text": "207. GUTE BAUSTOFFE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Erst_lose_dann_starr",
+        "text": "208. ERST LOSE, DANN STARR **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Anordnung_der_D%C3%A4cher",
+        "text": "209. ANORDNUNG DER DÄCHER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Anlage_der_Gescho%C3%9Fdecken",
+        "text": "210. ANLAGE DER GESCHOSSDECKEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Verbreitern_der_Au%C3%9Fenw%C3%A4nde",
+        "text": "211. VERBREITERN DER AUSSENWÄNDE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Pfeile_in_den_Ecken",
+        "text": "212. PFEILER IN DEN ECKEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Verteilung_der_Pfeiler",
+        "text": "213. VERTEILUNG DER PFEILER **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Wurzelfundamente",
+        "text": "214. WURZELFUNDAMENTE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Bodenplatte",
+        "text": "215. BODENPLATTE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kastenpfeiler",
+        "text": "216. KASTENPFEILER **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Randbalken",
+        "text": "217. RANDBALKEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Wandschale",
+        "text": "218. WANDSCHALEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gew%C3%B6lbte_Decke",
+        "text": "219. GEWÖLBTE DECKEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gew%C3%B6lbte_D%C3%A4cher",
+        "text": "220. GEWÖLBTE DÄCHER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../T%C3%BCren_und_Fenster_nach_Bedarf",
+        "text": "221. TÜREN UND FENSTER NACH BEDARF *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Niedrige_Fensterbr%C3%BCstung",
+        "text": "222. NIEDRIGE FENSTERBRÜSTUNG"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Tiefe_Laibungen",
+        "text": "223. TIEFE LAIBUNGEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Niedrige_T%C3%BCr",
+        "text": "224. NIEDRIGE TÜR"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gerahmte_%C3%96ffnungen",
+        "text": "225. GERAHMTE ÖFFNUNGEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Der_Platz_am_Pfeiler",
+        "text": "226. DER PLATZ AM PFEILER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Sichtbare_Aussteifung",
+        "text": "227. SICHTBARE AUSSTEIFUNG **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gew%C3%B6lbter_Stiegenlauf",
+        "text": "228. GEWÖLBTER STIEGENLAUF *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Platz_f%C3%BCr_Leitungen",
+        "text": "229. PLATZ FÜR LEITUNGEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Strahlungsw%C3%A4rme",
+        "text": "230. STRAHLUNGSWÄRME *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Dachgaupen",
+        "text": "231. DACHGAUPEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Dachaufs%C3%A4tze",
+        "text": "232. DACHAUFSÄTZE"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Fu%C3%9Fboden",
+        "text": "233. FUSSBODEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Schuppige_Au%C3%9Fenhaut",
+        "text": "234. SCHUPPIGE AUSSENHAUT"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Weiche_Innenw%C3%A4nde",
+        "text": "235. WEICHE INNENWÄNDE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Weit_aufgehend_Fenster",
+        "text": "236. WEIT AUFGEHENDE FENSTER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Solide_T%C3%BCren_mit_Glas",
+        "text": "237. SOLIDE TÜREN MIT GLAS"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Gefiltertes_Licht",
+        "text": "238. GEFILTERTES LICHT *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kleine_Scheibenteilung",
+        "text": "239. KLEINE SCHEIBENTEILUNG **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Schmale_Deckleiste",
+        "text": "240. SCHMALE DECKLEISTE **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Pl%C3%A4tze_zum_Sitzen",
+        "text": "241. PLÄTZE ZUM SITZEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Bank_vor_der_T%C3%BCr",
+        "text": "242. BANK VOR DER TÜR *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Sitzmauer",
+        "text": "243. SITZMAUER **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Markisend%C3%A4cher",
+        "text": "244. MARKISENDÄCHER *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Erh%C3%B6hte_Blumenbeete",
+        "text": "245. ERHÖHTE BLUMENBEETE *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kletterpflanzen",
+        "text": "246. KLETTERPFLANZEN"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Fugen_im_Pflaster",
+        "text": "247. FUGEN IM PFLASTER **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Weich_gebrannte_Fliesen_und_Ziegel",
+        "text": "248. WEICH GEBRANNTE FLIESEN UND ZIEGEL"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Ornament",
+        "text": "249. ORNAMENT **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Warme_Farben",
+        "text": "250. WARME FARBEN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Verschieden_Sessel",
+        "text": "251. VERSCHIEDENE SESSEL"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Lichtinseln",
+        "text": "252. LICHTINSELN **"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Dinge_aus_dem_eigenen_Leben",
+        "text": "253. DINGE AUS DEM EIGENEN LEBEN *"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wikihttps://pattern-language.wiki/index.php?title=Übersicht_der_Muster-Sprache&amp;oldid=3059",
+        "text": "https://pattern-language.wiki/index.php?title=Übersicht_der_Muster-Sprache&amp;oldid=3059"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Spezial:Kategorien",
+        "text": "Kategorien"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kategorie:A_Pattern_Language",
+        "text": "A Pattern Language"
+    },
+    {
+        "pattern_language": "Alexander",
+        "lang": "de",
+        "link": "https://pattern-language.wiki/.../Kategorie:Christopher_Alexander",
+        "text": "Christopher Alexander"
+    }
+]

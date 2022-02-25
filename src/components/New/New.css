@@ -135,6 +135,10 @@ button {
     float: right;
 }
 
+.clear {
+    clear: both;
+}
+
 
 [type="checkbox"] {
     position: relative;

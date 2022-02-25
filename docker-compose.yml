@@ -1,0 +1,9 @@
+version: '2.0'
+services:
+
+  patterns_dashboard:
+    build: ./
+    platform: linux/amd64
+    environment:
+      - NODE_ENV=prod
+    restart: unless-stopped
