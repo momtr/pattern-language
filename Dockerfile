@@ -1,6 +1,6 @@
 FROM node:14-alpine3.14 as build-deps
 WORKDIR /usr/src/app
-COPY package.json package-lock.lock ./
+COPY package.json ./
 RUN npm
 COPY . ./
 RUN npm run build
