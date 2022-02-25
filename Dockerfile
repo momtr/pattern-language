@@ -1,7 +1,7 @@
 FROM node:14-alpine3.14 as build-deps
 WORKDIR /usr/src/app
 COPY package.json ./
-RUN npm
+RUN npm i
 COPY . ./
 RUN npm run build
 
