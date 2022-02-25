@@ -1,9 +1,9 @@
 FROM node:14-alpine3.14 as build-deps
 WORKDIR /usr/src/app
 COPY package.json ./
-RUN npm i
+RUN yarn 
 COPY . ./
-RUN npm run build
+RUN yarn build
 
 FROM nginx:1.21.6-alpine
 COPY --from=build-deps /usr/src/app/build /usr/share/nginx/html
