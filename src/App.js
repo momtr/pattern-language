@@ -15,14 +15,7 @@ function App() {
 
   return (
     <div className="App">
-      <Router>
-        <Routes>
-          <Route path="">
-            <Route path="new" element={<New />}/>
-            <Route path="" element={<Navigate to={{pathname: '/new', state: { from: '/' }}}/>} />  
-          </Route>  
-        </Routes>
-      </Router>
+      <New />
     </div>
   );
 }
