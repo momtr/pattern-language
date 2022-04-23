@@ -9,13 +9,13 @@ import {
   Navigate,
   useLocation,
 } from "react-router-dom";
-import New from './components/New/New';
+import Form from './components/Form/Form';
 
 function App() {
 
   return (
     <div className="App">
-      <New />
+      <Form />
     </div>
   );
 }

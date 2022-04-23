@@ -4,7 +4,6 @@ const BASE = 'http://localhost'; // ersetzten, durch den hostname, auf dem der S
 
 
 export  async function getAllPatterns() {
-    console.log(data);
     //const resp = await fetch(makeHttpEndpoint('/patterns'));
     //const json = await resp.json();
     return new Promise((res, rej) => res({ patterns: data }));
