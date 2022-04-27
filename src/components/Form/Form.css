@@ -203,3 +203,8 @@ button.action-btn {
     font-size: .8rem;
     margin-bottom: 1rem;
 }
+
+.success-box {
+    text-align: center;
+    margin-top: 5rem;
+}

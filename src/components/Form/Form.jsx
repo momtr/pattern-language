@@ -9,6 +9,10 @@ import { getAllPatterns } from '../../api/patterns';
 import { yupResolver } from '@hookform/resolvers/yup';
 import { formSchema } from './schema';
 import { BsArrowLeft, BsArrowRight } from 'react-icons/bs';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+import GridLoader from "react-spinners/GridLoader";
+import { css } from "@emotion/react";
 
 export default function Form() {
 
@@ -60,7 +64,86 @@ export default function Form() {
     // overview
     const overviewRef = useRef();
 
+    // sending form to server
+    const [success, setSuccess] = useState(false);
+    const [loading, setLoading] = useState(false);
+    const spinnerCss = css`
+        display: block;
+        margin: 0 auto;
+        border-color: red;
+        `;
+    async function sendFormToServer() {
+        setLoading(true);
+        console.log('form', form);
+        const requestBody = { ...form };
+        requestBody.sketch = await toBase64(form.sketch[0]);
+        requestBody.titleImage = await toBase64(form.sketch[0]);
+        requestBody.items = await Promise.all(requestBody.items.map(async (item, key) => {
+            if (item.type === "text") return item;
+            if (item.type === "img") return {
+                type: 'img',
+                uuid: item.uuid,
+                description: item.description,
+                value: await toBase64(item.value[0])
+            }
+            if (item.type === "2img") {
+                return {
+                    type: '2img',
+                    uuid: item.uuid,
+                    description1: item.description1,
+                    description2: item.description2,
+                    value1: await toBase64(item.value1[0]),
+                    value2: await toBase64(item.value2[0])
+                }
+            }
+        }));
+        console.log('request', requestBody);
+        try {
+            const resp = await fetch('https://pattern-language.wiki/form/api/index.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(requestBody)
+            });
+            setLoading(false);
+            if (resp.status != 200) {
+                toast.error('Ein Fehler ist aufgetreten! Bitte kontaktieren Sie den Administrator. Code: ' + resp.status, {
+                    position: "top-center",
+                    autoClose: 5000,
+                    hideProgressBar: false,
+                    closeOnClick: true,
+                    pauseOnHover: true,
+                    draggable: true,
+                    progress: undefined,
+                });
+            } else {
+                setSuccess(true);
+            }
+        } catch (e) {
+            setLoading(false);
+            console.log(e);
+            toast.error('Ein Fehler ist aufgetreten! Bitte kontaktieren Sie den Administrator.', {
+                position: "top-center",
+                autoClose: 5000,
+                hideProgressBar: false,
+                closeOnClick: true,
+                pauseOnHover: true,
+                draggable: true,
+                progress: undefined,
+            });
+        }
+    }
+
     function getSectionCode() {
+        if (success)
+            return (<>
+                <div className="success-box">
+                    <h1>Danke!</h1>
+                    <p>Der Pattern wurde erfolgreich eingereicht. Wir werden Sie via E-Mail kontaktieren.</p>
+                    <a href="https://pattern-language.wiki">Zur Startseite</a>
+                </div>
+            </>)
         switch (current) {
             case 0:
                 return (<>
@@ -260,8 +343,9 @@ export default function Form() {
                     <h3>QUELLEN / LITERATUR</h3>
                     <p>{form.sourcs}</p>
 
-                    <button onClick={() => console.log(0)}>log</button>
-
+                    <button onClick={sendFormToServer}>
+                        {loading ? (<GridLoader color={'#ffffff'} loading={loading} css={spinnerCss} csize={35} />) : 'Absenden'}
+                    </button>
                 </div>)
         }
     }
@@ -299,6 +383,17 @@ export default function Form() {
                     </FormProvider>
                 </div>
             </div>
+            <ToastContainer
+                position="bottom-center"
+                autoClose={5000}
+                hideProgressBar={false}
+                newestOnTop={false}
+                closeOnClick
+                rtl={false}
+                pauseOnFocusLoss
+                draggable
+                pauseOnHover
+            />
             <div className="footer">
                 <p>Pattern Editor</p>
                 <a href="https://pattern-language.wiki">Zur Startseite</a>
@@ -373,7 +468,7 @@ function Discussion() {
             {items && items.map((item, key) => (
                 <div key={item.uuid}>
                     <button className="delete-button" type="button" onClick={() => remove(key)}>
-                        Abschnitt {key} löschen <TiDelete />
+                        Abschnitt {key + 1} löschen <TiDelete />
                     </button>
                     {getItem(item, key)}
 
@@ -389,3 +484,10 @@ function uuidv4() {
         (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
     );
 }
+
+const toBase64 = file => new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.readAsDataURL(file);
+    reader.onload = () => resolve(reader.result);
+    reader.onerror = error => reject(error);
+});
